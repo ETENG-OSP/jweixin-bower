@@ -5,7 +5,7 @@
 ## 安装方法
 
 ```bash
-bower install https://github.com/gengen1988/jweixin-bower.git#1.0.0
+bower install https://github.com/gengen1988/jweixin-bower.git#v1.0.0
 ```
 
 ## 使用说明
