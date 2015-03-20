@@ -1,4 +1,4 @@
-# 微信官方 JS SDK for Bower
+# 微信官方 JS-SDK for Bower
 
 这是给使用 bower 进行依赖管理的项目做的版本库，包含了官方发布的最新版 SDK。
 
